@@ -7,6 +7,10 @@ Welcome to Y86 Implementation using Logisim's documentation!
 ============================================================
 This tutorial provides step-by-step instructions for CSCE312 term project. The goal of the term project is to implement Y86 64-bit sequential (non pipelined) architecture using Logisim digital logic design tool.
 
+.. raw:: html
+
+  <iframe width="700" height="400" src="https://www.youtube.com/embed/x5WSz-WQoWk?list=PLAN5AcM4p7jcTwCe-q-A6ziFdvkrXmnGe" title="0 overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents

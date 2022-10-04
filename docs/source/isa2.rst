@@ -5,6 +5,9 @@ This document assumes that you are farmiliar with Y86-86 assembly language and i
 If you are not or want to review the Y86-86 architecture, refer to the chapter 4.1 of Bryant book.
 This document gives you an essential information you should know for Y86-64-SEQ using logisim.
 
+.. raw:: html
+
+   <iframe width="700" height="400" src="https://www.youtube.com/embed/taNteGKWGRs?list=PLAN5AcM4p7jcTwCe-q-A6ziFdvkrXmnGe" title="2 isa2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Y86-64 Instructions
 **************************************

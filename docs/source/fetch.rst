@@ -4,6 +4,14 @@ Stage1: Instruction Fetch
 This section explains essential information of Fetch and PC Update Stage.
 If you want to find complete description of Fetch Unit and PC Update Stage, read the chapter 4.3.4 SEQ Stage Implementations.
 
+.. raw:: html
+
+   <iframe width="700" height="400" src="https://www.youtube.com/embed/VMdrfKNq4v4?list=PLAN5AcM4p7jcTwCe-q-A6ziFdvkrXmnGe" title="5 fetch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+
+   <iframe width="700" height="400" src="https://www.youtube.com/embed/UXu98quBMOw?list=PLAN5AcM4p7jcTwCe-q-A6ziFdvkrXmnGe" title="5 fetch demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 .. figure:: ./images/fig4.27.png
 
    Figure 4.27 Fetch stage.

@@ -7,7 +7,7 @@ This document gives you an essential information you should know for Y86-64-SEQ 
 
 .. raw:: html
 
-  <iframe width="700" height="400" src="https://www.youtube.com/embed/00ePLmsJhhw" title="우리에게 친일파로 그 유명한 이완용! 고종의 신임을 한 몸에 받던 엘리트 수재 친미파였다?! | #벌거벗은한국사 이완용 편" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="700" height="400" src="https://www.youtube.com/embed/nr0clTf3gP4?list=PLAN5AcM4p7jcTwCe-q-A6ziFdvkrXmnGe" title="1 isa1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Programmer Visible State
 ********************************

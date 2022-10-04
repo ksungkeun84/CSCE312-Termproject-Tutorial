@@ -1,6 +1,12 @@
 Stage2: Decode and Write Back Stage
 ===================================================
 
+.. raw:: html
+
+   <iframe width="700" height="400" src="https://www.youtube.com/embed/1GVJoQg3WEI?list=PLAN5AcM4p7jcTwCe-q-A6ziFdvkrXmnGe" title="6 dec wb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+   <iframe width="700" height="400" src="https://www.youtube.com/embed/QNGGgTUkW_4?list=PLAN5AcM4p7jcTwCe-q-A6ziFdvkrXmnGe" title="6 dec wb demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. figure:: ./images/fig4.28.png
 

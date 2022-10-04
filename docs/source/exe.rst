@@ -1,6 +1,15 @@
 Stage3: Execution Stage
 =======================
 
+.. raw:: html
+
+  <iframe width="700" height="400" src="https://www.youtube.com/embed/y_vAGoY3MEM?list=PLAN5AcM4p7jcTwCe-q-A6ziFdvkrXmnGe" title="7 exe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+
+  <iframe width="700" height="400" src="https://www.youtube.com/embed/uA6qYalSJJo?list=PLAN5AcM4p7jcTwCe-q-A6ziFdvkrXmnGe" title="7 exe demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 .. figure:: ./images/fig4.29.png
 
    Figure 4.29 Execute stage
