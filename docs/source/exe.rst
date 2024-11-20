@@ -18,7 +18,7 @@ Arithmetic Logic Unit (ALU) performs the four operations.
 
 :: 
 
-  ADD, SUB, ADN, XOR
+  ADD, SUB, AND, XOR
 
 Inputs
 **********
